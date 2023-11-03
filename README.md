@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikkyRay
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in Python Developer.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
